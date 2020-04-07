@@ -1,0 +1,77 @@
+@media (max-width: 767px) {
+body {
+    max-width: 480px;
+    margin: auto;
+    text-align: center;
+}
+
+nav {
+    background-color: aquamarine;
+    width: 100%;
+    height: 75px;
+    line-height: 75px;
+}
+
+#divB {
+        background-color: bisque;
+        width: 100%;
+        height: 150px;
+        line-height: 150px;
+}
+
+#divC {
+    background-color: cadetblue;
+    width: 100%;
+    height: 125px;
+    line-height: 125px;
+}
+
+#divD {
+    background-color: darkcyan;
+    width: 100%;
+    height: 125px;
+    line-height: 125px;
+}
+
+#divE {
+    background-color: rgb(128, 177, 31);
+    width: 50%;
+    height: 250px;
+    float: left;
+    line-height: 250px;
+
+}
+
+#divF {
+    background-color: rgb(97, 128, 37);
+    width: 50%;
+    height: 250px;
+    float: right;
+    line-height: 250px;
+
+}
+
+#divG {
+    background-color: rgb(36, 143, 80);
+    width: 50%;
+    height: 250px;
+    float: left;
+    line-height: 250px;
+}
+
+#divH {
+    background-color: rgb(16, 110, 66);
+    width: 50%;
+    height: 250px;
+    float: right;
+    line-height: 250px;
+}
+
+footer {
+    background-color: fuchsia;
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    clear: both;
+}
+}
